@@ -2,13 +2,6 @@
 
 BertForFeatures is a Python class designed for generating text embeddings using a BERT model and applying Principal Component Analysis (PCA) for dimensionality reduction. This tool is ideal for transforming textual data into numerical features suitable for machine learning models.
 
-## Features
-
-- Generate embeddings from text using a pre-trained BERT model.
-- Process large datasets efficiently with batch processing.
-- Optional PCA for dimensionality reduction of embeddings.
-- Output embeddings as a pandas DataFrame for easy integration with data workflows.
-
 ## Requirements
 
 - Python 3.x
