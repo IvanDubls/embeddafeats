@@ -57,7 +57,7 @@ Suppose you have the following texts:
 You can generate embeddings reduced to 5 dimensions using PCA and view the resulting DataFrame.
 
 ```python
-from BertForFeatures import BertForFeatures
+from embeddafeats import BertForFeatures
 import pandas as pd
 
 # Initialize the BertForFeatures class
@@ -125,7 +125,7 @@ BertForFeatures — это класс на Python, предназначенны�
 
 1. **Импортируйте необходимые модули:**
 
-   Добавьте в ваш Python-скрипт импорт `BertForFeatures` и `pandas`.
+   Добавьте в ваш Python-скрипт импорт `embeddafeats` и `pandas`.
 
 2. **Инициализируйте класс:**
 
@@ -154,7 +154,7 @@ BertForFeatures — это класс на Python, предназначенны�
 Вы можете сгенерировать эмбеддинги, сниженные до 5 измерений с помощью PCA, и просмотреть полученный DataFrame.
 
 ```python
-from BertForFeatures import BertForFeatures
+from embeddafeats import BertForFeatures
 import pandas as pd
 
 # Инициализация класса BertForFeatures
